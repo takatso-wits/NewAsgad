@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632184258741",
+    "firebase_url": "https://new-asgard.firebaseio.com",
+    "project_id": "new-asgard",
+    "storage_bucket": "new-asgard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632184258741:android:ff4cae437d87a20e",
+        "android_client_info": {
+          "package_name": "com.example.newasgad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632184258741-3ct0onjjufmgp1dfkrsj2e234i2o3fiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newasgad",
+            "certificate_hash": "bd0f9dc6d03aeaae68b717775dcf6b3969e75f0f"
+          }
+        },
+        {
+          "client_id": "632184258741-druojsfoom31khackbshm16ltah5nlt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLs5zjAy8q4MxldSFHtbLK-MZY2dRNyD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632184258741-druojsfoom31khackbshm16ltah5nlt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
