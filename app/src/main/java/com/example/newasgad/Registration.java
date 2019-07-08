@@ -75,8 +75,7 @@ public class Registration extends AppCompatActivity {
         tv_Login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //startActivity();
-                Toast.makeText(Registration.this, "Waiting for Khanyi and Login Branch", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(getApplicationContext(), Login.class));
 
             }
         });
